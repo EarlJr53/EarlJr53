@@ -9,4 +9,3 @@
 #### Past Projects:
 - 🌱 Digital Media Intern @ US Fish and Wildlife Service
 - 🤖 FIRST Robotics Competition Alum @LongMetal-Robotics (Programming, Design, Electrical)
-- 
