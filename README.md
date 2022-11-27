@@ -11,5 +11,5 @@
 
 #### Past Projects:
 - 🌊 Researcher on Olin College Aquaculture Profiler robot [@ Olin LAIR](https://github.com/ocap-lair-olin)
-- 🌱 Digital Media Intern @ US Fish and Wildlife Service @USFWS
-- 🤖 FIRST Robotics Competition Alum [@LongMetal-Robotics](https://github.com/LongMetal-Robotics) (Programming, Design, Electrical)
+- 🌱 Digital Media Intern @ US Fish and Wildlife Service @ US Fish and Wildlife Service
+- 🤖 FIRST Robotics Competition Alum [@ LongMetal Robotics](https://github.com/LongMetal-Robotics) (Programming, Design, Electrical)
