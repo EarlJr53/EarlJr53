@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Olin College of Engineering '25
+- ⛵ Sail Automation / Control System Design Intern @ Aloft Systems
 - 🔧 Shop Assistant @ Olin College Machine Shop
   - 3D Printers
   - Laser Cutters
