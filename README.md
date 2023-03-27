@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 Olin College of Engineering '25
-- ⛵ Sail Automation / Control System Design Intern @ Aloft Systems
+- 🔭 Olin College of Engineering '25 - Engineering: Robotics for Sustainability
+- ⛵ Sail Automation / Control System Design Intern [@ Aloft Systems](https://github.com/Aloft-Systems)
 - 🔧 Shop Assistant @ Olin College Machine Shop
   - 3D Printers
   - Laser Cutters
   - Photo Studio
 - 💬 Public Interest Technology + Robotics Lab @ Olin
-- 📫 How to reach me: me@brookem.dev
+- 📫 How to reach me: connect@brookem.dev
 - ☮ Pronouns: They/She
 
 #### Past Projects:
