@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Olin College of Engineering '25 - Engineering: Robotics for Sustainability
-- 🛥 Developing Electric Work Boat @ Flux Marine
+- 🛥 Developing Electric Work Boat [@ Flux Marine](https://github.com/Flux-Marine)
 - 🚜 Agricultural Robotics Researcher [@ Olin HAIR Lab](https://github.com/Olin-HAIR-Lab)
 - 🔧 Shop Assistant @ Olin College Machine Shop
   - 3D Printers
