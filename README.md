@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Olin College of Engineering '25 - Engineering: Robotics for Sustainability
-- 🛥 Developing Electric Work Boat [@ Flux Marine](https://github.com/Flux-Marine)
+- 🎣 Exploring Sustainability in Commercial Fishing
 - 🚜 Agricultural Robotics Researcher [@ Olin HAIR Lab](https://github.com/Olin-HAIR-Lab)
 - 🔧 Shop Assistant @ Olin College Machine Shop
   - 3D Printers
@@ -11,6 +11,7 @@
 - ☮ Pronouns: She/They
 
 #### Past Projects:
+- 🛥 Systems Engineering Intern [@ Flux Marine](https://github.com/Flux-Marine)
 - ⛵ Sail Automation / Control System Design Intern [@ Aloft Systems](https://github.com/Aloft-Systems)
 - 🌊 Researcher on Olin College Aquaculture Profiler robot [@ Olin LAIR](https://github.com/ocap-lair-olin)
 - 🌱 Digital Media Intern @ US Fish and Wildlife Service
